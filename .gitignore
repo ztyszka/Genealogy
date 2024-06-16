@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Genealogy/.vs/Genealogy
+/Genealogy/genealogy.client/.vscode
+/Genealogy/Genealogy.Server/obj
