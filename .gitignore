@@ -3,6 +3,8 @@
 ################################################################################
 
 /.vs
-/Genealogy/.vs/Genealogy
 /Genealogy/genealogy.client/.vscode
 /Genealogy/Genealogy.Server/obj
+/Genealogy/.vs
+/Genealogy/genealogy.client/obj
+/Genealogy/Genealogy.Server/bin
